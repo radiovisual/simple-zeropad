@@ -1,0 +1,29 @@
+{
+  "name": "zeropad",
+  "version": "1.0.0",
+  "description": "Zeropad your numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radiovisual/zeropad.git"
+  },
+  "keywords": [
+    "zeropad",
+    "zerofill",
+    "number",
+    "string",
+    "zero",
+    "add",
+    "pad",
+    "fill"
+  ],
+  "author": "Michael Wuergler <senjudev@gmail.com> (http://numetriclabs.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/radiovisual/zeropad/issues"
+  },
+  "homepage": "https://github.com/radiovisual/zeropad#readme"
+}
