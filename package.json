@@ -1,7 +1,7 @@
 {
   "name": "zeropad",
-  "version": "1.0.0",
-  "description": "Zeropad your numbers",
+  "version": "1.0.1",
+  "description": "Zeropad your positive integers.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
