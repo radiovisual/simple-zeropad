@@ -1,17 +1,17 @@
-# zeropad [![Build Status](https://travis-ci.org/radiovisual/zeropad.svg)](https://travis-ci.org/radiovisual/zeropad)
+# simple-zeropad [![Build Status](https://travis-ci.org/radiovisual/zeropad.svg)](https://travis-ci.org/radiovisual/zeropad)
 > Zeropad your positive integers.
 
-![zeropad is amazing](http://i43.tinypic.com/2u9r5hu.jpg)
+![simple-zeropad is amazing](http://i43.tinypic.com/2u9r5hu.jpg)
 
 ## Install
 
 ```sh
-$ npm install zeropad
+$ npm install simple-zeropad
 ```
 
 ## Usage
 ```js
-var zeropad = require('zeropad');
+var zeropad = require('simple-zeropad');
 
 zeropad(9);
 // => '09'
