@@ -1,4 +1,4 @@
-# simple-zeropad [![Build Status](https://travis-ci.org/radiovisual/zeropad.svg)](https://travis-ci.org/radiovisual/zeropad)
+# simple-zeropad [![Build Status](https://travis-ci.org/radiovisual/simple-zeropad.svg)](https://travis-ci.org/radiovisual/simple-zeropad)
 > Zeropad your positive integers.
 
 ![simple-zeropad is amazing](http://i43.tinypic.com/2u9r5hu.jpg)
