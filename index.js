@@ -2,15 +2,14 @@
 
 module.exports = function(num){
 
-    if ( isNaN( parseFloat(num, 10) )) {
+    num = parseFloat(num, 10);
+    if ( isNaN(num)) {
         throw new SyntaxError('zeropad parameter must be a string or a number');
     }
 
-    var _n = parseFloat(num, 10);
-
-    if (_n < 10){
-        return "0"+_n;
+    if (num < 10){
+        return "0"+num;
     } else {
-        return _n;
+        return num;
     }
 };

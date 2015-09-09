@@ -3,6 +3,8 @@
 
 ![simple-zeropad is amazing](http://i43.tinypic.com/2u9r5hu.jpg)
 
+*For custom-length zeropadding, see [zeropad](https://github.com/radiovisual/zeropad).*
+
 ## Install
 
 ```sh
@@ -29,7 +31,11 @@ zeropad(10);
 
 This is an incredibly simple module, but I have lost count over the years how many times I have written a function to
 zeropad my numbers for various user-interface purposes, so the motivation to build this module is one of pure principle, 
-posterity, and module-fever. Please enjoy this module and the 20 seconds of blood, sweat and tears I poured into this. 
+posterity, and a mission to modularize. Please enjoy this module and the 20 seconds of blood, sweat and tears I poured into this. 
+
+## Related
+
+- [zeropad](https://github.com/radiovisual/zeropad): pad to any custom length
 
 ## License
 
