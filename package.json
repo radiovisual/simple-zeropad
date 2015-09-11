@@ -1,6 +1,6 @@
 {
   "name": "simple-zeropad",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Zeropad your positive integers.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/radiovisual/zeropad.git"
+    "url": "git+https://github.com/radiovisual/simple-zeropad.git"
   },
   "keywords": [
     "zeropad",
@@ -18,7 +18,10 @@
     "zero",
     "add",
     "pad",
-    "fill"
+    "fill",
+    "minumum",
+    "length",
+    "two"
   ],
   "author": "Michael Wuergler <senjudev@gmail.com> (http://numetriclabs.com)",
   "license": "MIT",
