@@ -1,6 +1,6 @@
 {
   "name": "simple-zeropad",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Zeropad your positive integers.",
   "main": "index.js",
   "scripts": {
